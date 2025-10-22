@@ -7,6 +7,9 @@
 	"authors": [
 		"VisoXD"
 	],
+	"contact": {
+		"sources": "https://github.com/VisoXC/VisoRAT"
+	},
     "contact": {},
     "license": "CC0-1.0",
     "icon": "assets/visomod/icon.png",
