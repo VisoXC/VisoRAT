@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "visomod",
+	"version": "${version}",
+	"name": "VisoMod",
+	"description": "Super epic minecraft mod (100% real)",
+	"authors": [
+		"VisoXD"
+	],
+    "contact": {},
+    "license": "CC0-1.0",
+    "icon": "assets/visomod/icon.png",
+    "environment": "*",
+    "entrypoints": {
+      "main": [
+        "me.visoxd.VisoMod"
+      ]
+    },
+    "depends": {
+      "fabricloader": ">=0.17.2",
+      "minecraft": "~1.21.10",
+      "java": ">=21",
+      "fabric-api": "*"
+    }
+  }

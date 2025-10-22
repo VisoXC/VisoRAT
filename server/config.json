@@ -1,0 +1,38 @@
+{
+    "security": {
+        "rate_limit_seconds": 600,
+        "min_token_length": 128,
+        "check_duplicate_tokens": true
+    },
+    "endpoints": {
+        "/receive": {
+            "webhooks": [
+                {
+                    "url": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+                    "name": "D Hooked RAT",
+                    "footer": "VisoRAT",
+                    "color": 7414964,
+					"avatar_url": "https://bigrat.monster/media/bigrat.jpg"
+                },
+                {
+                    "url": "YOUR_DISCORD_WEBHOOK_URL_HERE", 
+                    "name": "RAT",
+                    "footer": "VisoRAT",
+                    "color": 7414964,
+					"avatar_url": "https://bigrat.monster/media/bigrat.jpg"
+                }
+            ]
+        },
+        "/auth": {
+            "webhooks": [
+                {
+                    "url": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+                    "name": "Not D Hooked RAT",
+                    "footer": "VisoRAT",
+                    "color": 7414964,
+					"avatar_url": "https://bigrat.monster/media/bigrat.jpg"
+                }
+            ]
+        }
+    }
+}
