@@ -11,7 +11,10 @@
    - Webhook undeletable
    - Spam protection
    - Data validation
-   - Configurable, no watermark
+   - Multiple-RAT-support
+   - D-Hookable
+   - Highly [configurable](https://github.com/VisoXC/VisoRAT/blob/main/server/config.json)
+   - No Watermark
 
 - Grabs
    - Username
