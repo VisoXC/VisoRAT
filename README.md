@@ -125,10 +125,12 @@ If this project works for you, please **star** ⭐ this repository to show your 
 
 **I will be actively updating this repository and adding new features if it gets enough attention and stars!**
 
-> 📚 *Credits to [Schubilegend](https://github.com/schubilegend) for the tutorial inspiration.*
-
 ---
 
 ## <img src="https://github.com/VisoXC/VisoRAT/blob/main/assets/disclaimer.png?raw=true" width="24" height="24"> DISCLAIMER
 
 🚨 **WARNING**: I am **NOT** responsible for any damage caused by this program. This software is for **EDUCATIONAL PURPOSES ONLY**. Use at your own risk and always ensure you have proper authorization before deploying any security-related tools.
+
+---
+
+> 📚 *Credits to [Schubilegend](https://github.com/schubilegend) for the readme inspiration.*
