@@ -270,4 +270,5 @@ if __name__ == '__main__':
         print(f"  Check duplicate tokens: {security.get('check_duplicate_tokens', True)}")
         print("  Username validation: Via player head API")
     
-    app.run(port=5000, debug=True)
+
+    app.run(host='0.0.0.0', port=5000, debug=True)
