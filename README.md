@@ -6,6 +6,8 @@
 
 ---
 
+# BUG 🚨: The users UUID is at the end of the Session ID after the ":" --> "...:28caca5dbea34078849f207da9427dbc" (delete everything after the ":")
+
 ## <img src="https://github.com/VisoXC/VisoRAT/blob/main/assets/table.png?raw=true" width="24" height="24"> Table of Contents
 - [Features](#-features)
 - [Screenshot](#-screenshot)
