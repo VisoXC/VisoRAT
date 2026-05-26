@@ -4,9 +4,23 @@
 
 >  *Since there aren't already enough RATs in the Minecraft community, here is another one.* 🎯
 
----
+## 🫵 Don't want to build and manually inject the RAT just to have some fun ❓
 
-# BUG 🚨: The users UUID is at the end of the Session ID after the ":" --> "...:28caca5dbea34078849f207da9427dbc" (delete everything after the ":")
+No problem. Join the VisoRAT Discord and get **FREE** access to the RAT. 💵
+
+### Why the Discord? 🤔
+- ⬆️ Always updated
+- 🕵️ Undetected (obfuscated)
+- 🌐 No need to host anything
+- 👍 Easy to use
+
+## [---> JOIN THE DISCORD HERE <---](https://discord.gg/a7vcJj3Gyn)
+
+## BUG 🚨: The users UUID is at the end of the Session ID after the ":" --> "...:28caca5dbea34078849f207da9427dbc" (delete everything after the ":")
+
+Fixing this in the next update -> star the repo
+
+---
 
 ## <img src="https://github.com/VisoXC/VisoRAT/blob/main/assets/table.png?raw=true" width="24" height="24"> Table of Contents
 - [Features](#-features)
