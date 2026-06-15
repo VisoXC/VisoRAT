@@ -140,7 +140,6 @@ If this project works for you, please **star** ⭐ this repository to show your 
 🚨 Next update on: **20 Stars**
 
 💬 **Discord**: @visoxd
-(a support discord is in the works)
 
 ---
 
