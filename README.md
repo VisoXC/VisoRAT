@@ -14,7 +14,7 @@ No problem. Join the VisoRAT Discord and get **FREE** access to the RAT. 💵
 - 🌐 No need to host anything
 - 👍 Easy to use
 
-## [---> JOIN THE DISCORD HERE <---](https://discord.gg/a7vcJj3Gyn)
+## [---> JOIN THE DISCORD HERE <---](https://discord.gg/hHbz5F4AP)
 
 ## BUG 🚨: The users UUID is at the end of the Session ID after the ":" --> "...:28caca5dbea34078849f207da9427dbc" (delete everything after the ":")
 
